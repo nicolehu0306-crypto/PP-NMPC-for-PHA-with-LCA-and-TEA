@@ -1,4 +1,4 @@
-PHA fermentation model — parameter optimisation with differential evolution.
+"""PHA fermentation model — parameter optimisation with differential evolution.
 
 Supports BATCH and FED-BATCH operation.
 
